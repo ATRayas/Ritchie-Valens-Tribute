@@ -1,0 +1,30 @@
+body{
+  margin-top: 2%;
+  background-color: moccasin;
+}
+body { 
+    background-image: url('https://thevinylfactory.com/wp-content/uploads/2016/11/VF-Most-Collectable-1950s-2.jpg');
+    background-repeat: repeat; 
+    background-attachment: fixed;
+    background-position: center; 
+}
+.paddingBTN{
+  padding-top:2%;
+  padding-bottom:2%;
+  width:200px;
+  margin-bottom:25px;
+}
+.paddingTop{
+  padding-top:2%;
+  padding-bottom:2%;
+}
+.paddingTopContact{
+  padding-top:10%;
+}
+.paddingVideo{
+  padding-top:2%;
+}
+.paddingBottom{
+/*   padding-top:2%; */
+  padding-bottom:2%;
+}
